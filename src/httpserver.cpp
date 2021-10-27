@@ -31,7 +31,6 @@
 #include <event2/keyvalq_struct.h>
 
 #include <support/events.h>
-#include <deque>
 
 #ifdef EVENT__HAVE_NETINET_IN_H
 #include <netinet/in.h>
